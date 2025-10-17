@@ -1,0 +1,15 @@
+venv/
+.env
+.env*/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+.build/
+dist/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.vscode/
