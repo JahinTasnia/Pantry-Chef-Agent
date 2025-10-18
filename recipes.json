@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pasta_aglio_e_olio",
+    "title": "Pasta Aglio e Olio",
+    "ingredients": ["spaghetti", "garlic", "olive oil", "chili flakes", "parsley", "salt"],
+    "steps": [
+      "Boil pasta in salted water until al dente.",
+      "Gently sauté sliced garlic in olive oil; add chili flakes.",
+      "Toss pasta with oil, splash pasta water, finish with parsley and salt."
+    ],
+    "servings": 2
+  },
+  {
+    "id": "veg_omelette",
+    "title": "Vegetable Omelette",
+    "ingredients": ["eggs", "onion", "tomato", "green chili", "salt", "oil"],
+    "steps": [
+      "Beat eggs with salt.",
+      "Sauté chopped onion, chili, tomato in a little oil.",
+      "Pour eggs, cook both sides until set."
+    ],
+    "servings": 1
+  },
+  {
+    "id": "chickpea_salad",
+    "title": "Chickpea Salad",
+    "ingredients": ["chickpeas", "cucumber", "tomato", "onion", "lemon", "salt"],
+    "steps": [
+      "Combine drained chickpeas with chopped veggies.",
+      "Dress with lemon juice and salt; toss to coat."
+    ],
+    "servings": 2
+  }
+]
